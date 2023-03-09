@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Tilt Prism', cursive;
+    font-size: 50px;
+    background-color: pink;
+    border: solid;
+    border-color: turquoise;
+    color:aquamarine;
+}
+
+.words {
+    font-family: 'Tilt Neon', cursive;
+    border: solid;
+    border-color: rgb(200, 246, 244);
+    background-color:rgb(200, 246, 244);
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RQQqnqEs6j_YEWCBH4BDcbMkhOQOQ3RwuA&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+}
+
+#Canvas {
+    background-color: white;
+    border: ridge;
+    color: grey;
+    border-width: 10px;
+}
+
+button {
+    font-family: 'Tilt Neon', cursive;
+    background-color: rgb(86, 204, 165);
+    font-size: 30px;
+}
